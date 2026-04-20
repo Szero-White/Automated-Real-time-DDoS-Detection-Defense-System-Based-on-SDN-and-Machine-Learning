@@ -1,4 +1,4 @@
-# 🛡️ DDoS Detection with SDN Floodlight + ML (2025)
+# 🛡️ Automated Real-time DDoS Detection & Defense System Based on SDN and Machine Learning
 
 Một hướng dẫn ngắn gọn, đẹp và nhất quán để chạy demo phát hiện & chặn DDoS theo thời gian thực bằng SDN Floodlight, Mininet và mô hình Machine Learning huấn luyện từ CICIDS2017.
 
